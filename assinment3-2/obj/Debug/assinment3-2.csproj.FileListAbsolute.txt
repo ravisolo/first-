@@ -1,0 +1,5 @@
+c:\users\ravi\documents\visual studio 2012\Projects\assinment3\assinment3-2\bin\Debug\assinment3-2.exe.config
+c:\users\ravi\documents\visual studio 2012\Projects\assinment3\assinment3-2\bin\Debug\assinment3-2.exe
+c:\users\ravi\documents\visual studio 2012\Projects\assinment3\assinment3-2\bin\Debug\assinment3-2.pdb
+c:\users\ravi\documents\visual studio 2012\Projects\assinment3\assinment3-2\obj\Debug\assinment3-2.exe
+c:\users\ravi\documents\visual studio 2012\Projects\assinment3\assinment3-2\obj\Debug\assinment3-2.pdb
